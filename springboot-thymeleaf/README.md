@@ -35,3 +35,7 @@
 ### HOW: 入门
 Springboot结合jpa加Thymeleaf显现一个简单的curd。
 
+### 参考
+1. [SpringBoot页面展示Thymeleaf](jianshu.com/p/a842e5b5012e)
+2. [什么是Thymeleaf](https://www.jianshu.com/p/84a25d699cf5)
+
