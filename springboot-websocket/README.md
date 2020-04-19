@@ -34,11 +34,10 @@
 ### WHEN: 明确场景
     数据实时性要求高的场景
 ### HOW: 入门
-    https://zhuanlan.zhihu.com/p/93694533
-
+    1. [SpringBoot2.0集成WebSocket，实现后台向前端推送信息](https://blog.csdn.net/moshowgame/article/details/80275084)
 ### 参考
-1、[WebSocket 教程-阮一峰](http://www.ruanyifeng.com/blog/2017/05/websocket.html)
-2、
-3、[websocket-API](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
+1. [WebSocket 教程-阮一峰](http://www.ruanyifeng.com/blog/2017/05/websocket.html)
+2. [SpringBoot2.0整合WebSocket，实现后端数据实时推送！](https://zhuanlan.zhihu.com/p/93694533)
+3. [websocket-API](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
 
 
